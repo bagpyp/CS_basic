@@ -1,0 +1,6 @@
+C:\Users\rober\source\repos\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\rober\source\repos\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\rober\source\repos\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\rober\source\repos\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\rober\source\repos\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
