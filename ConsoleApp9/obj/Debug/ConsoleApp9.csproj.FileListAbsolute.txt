@@ -1,0 +1,6 @@
+C:\Users\rober\CS\basic\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\rober\CS\basic\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\rober\CS\basic\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\rober\CS\basic\ConsoleApp9\obj\Debug\ConsoleApp9.csprojAssemblyReference.cache
+C:\Users\rober\CS\basic\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\rober\CS\basic\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
