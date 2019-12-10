@@ -170,11 +170,32 @@ namespace ConsoleApp10
                 {
                     Console.WriteLine("and " + indeces[m]);
                 }
+            }
+            Console.ReadLine();
 
-                
+            //11.
+            List<string> iterableList = new List<string>() { "a", "b", "c", "b", "c" };
+            Console.WriteLine("press enter to see some info about my next list");
+            Console.ReadLine();
+
+            List<string> tempList = new List<string>();
+
+            int count = 0;
+            foreach (string item in iterableList) 
+            {
+                count++;
+                if (tempList.Contains(item)) 
+                {
+                    Console.WriteLine("item {0}: " + item + ", which has already appeared in this list.", count);
+                }
+                else 
+                {
+                    Console.WriteLine("item {0}: " + item + ", which has not already appeared in this list.", count);
+                }
+                tempList.Add(item);
             }
 
-            //11. is confusing, will get help l8r.            
+                        
             _ = Console.ReadLine();
 
         }
