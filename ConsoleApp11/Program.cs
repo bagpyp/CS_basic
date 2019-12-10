@@ -36,21 +36,21 @@ class Program
         //}
         try
         {
-            float[] nums = { 12, 14.6f, 92, 22, 321, 5354.342f, 65, 43.3f, 2324, 34 };
+            int[] nums = { 12, 14, 92, 22, 321, 5354, 65, 43, 2324, 34 };
 
             Console.WriteLine("Check out this list of numbers!");
-            foreach (float num in nums)
+            foreach (int num in nums)
             {
                 Console.WriteLine(num);
             }
             Console.WriteLine("Gimme a number I can divide 'em all by!");
 
-            float divisor = Convert.ToSingle(Console.ReadLine());
+            int divisor = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Okay check this out.");
-            foreach (float num in nums)
+            foreach (int num in nums)
             {
-                float result = num / divisor;
+                int result = num / divisor;
                 Console.WriteLine(num + " divided by " + divisor + " equals " + result);
             }
 
