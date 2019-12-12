@@ -1,0 +1,5 @@
+C:\Users\rober\CS\basic\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+C:\Users\rober\CS\basic\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+C:\Users\rober\CS\basic\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+C:\Users\rober\CS\basic\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+C:\Users\rober\CS\basic\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
