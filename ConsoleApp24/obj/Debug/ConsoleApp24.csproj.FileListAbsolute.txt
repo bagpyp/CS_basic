@@ -1,0 +1,5 @@
+C:\Users\rober\CS\basic\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+C:\Users\rober\CS\basic\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+C:\Users\rober\CS\basic\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+C:\Users\rober\CS\basic\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+C:\Users\rober\CS\basic\ConsoleApp24\obj\Debug\ConsoleApp24.pdb
