@@ -15,8 +15,11 @@ namespace ConsoleApp7
             {
                 Console.WriteLine("What Day of the Week is it?");
                 Day day;
-                Enum.TryParse(Console.ReadLine(), out day);
-                Console.WriteLine(day + ", huh");
+                bool canParse;
+                canParse = Enum.TryParse(Console.ReadLine(), out day);
+                if (canParse) Console.WriteLine(day + ", huh");
+                else throw new Exception();
+
             }
             catch (Exception)
             {
