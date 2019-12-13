@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp6
 {
+    //assignment 124, 1. Create an abstract class called Person 
     abstract class Person
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public void SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
+        public abstract void SayName();
+
     }
 }
